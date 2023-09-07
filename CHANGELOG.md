@@ -6,4 +6,17 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
-- Initial release
+- [0.0.1] 09/08/2023
+
+### Added
+
+
+
+### Fixed
+
+
+### Changed
+
+
+### Removed
+
