@@ -1,4 +1,4 @@
-# zenblue README
+# ZenBlue README
 
 ## Introduction
 inspired by the abyss theme and configured for all those blue lovers out there.
