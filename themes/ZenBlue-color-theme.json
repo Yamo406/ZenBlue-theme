@@ -60,6 +60,9 @@
 		//panel
 		"panel.background": "#000520",
 		"panelTitle.activeBorder": "#007ce2",
+		
+		//debugger
+		"debugToolBar.background": "#010a3c",
 
 		//terminal
 		"terminal.foreground": "#ffffff",
@@ -308,7 +311,7 @@
 				"support.type"
 			],
 			"settings": {
-				"foreground": "#B2CCD6"
+				"foreground": "#006EFF"
 			}
 		},
 		{
@@ -322,7 +325,7 @@
 				"source.postcss support.type.property-name"
 			],
 			"settings": {
-				"foreground": "#B2CCD6"
+				"foreground": "#006EFF"
 			}
 		},
 		{
@@ -497,7 +500,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#FFCB6B"
+				"foreground": "#006EFF"
 			}
 		},
 		{
@@ -515,7 +518,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#FFCB6B"
+				"foreground": "#00EEFF"
 			}
 		},
 		{
@@ -524,7 +527,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#C17E70"
+				"foreground": "#2EC0FF"
 			}
 		},
 		{
