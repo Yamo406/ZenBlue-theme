@@ -1,0 +1,28 @@
+{
+  "name": "ZenBlue",
+  "displayName": "ZenBlue",
+  "publisher": "Yamo",
+  "description": "The perfect blue for your zen mode",
+  "version": "0.0.1",
+  "repository": {"url": "https://github.com/kdayamo/ZenBlue-theme.git"},
+  "engines": 
+  {
+    "vscode": "^1.54.0"
+  },
+  "icon": "ZenBlue icon.png",
+  "categories": 
+  [
+    "Themes"
+  ],
+  "contributes": 
+  {
+    "themes": 
+    [
+      {
+        "label": "ZenBlue",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ZenBlue-color-theme.json"
+      }
+    ]
+  }
+}
