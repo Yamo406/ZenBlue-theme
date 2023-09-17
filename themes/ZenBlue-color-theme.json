@@ -94,6 +94,7 @@
 
 		//statusBar
 		"statusBar.background": "#010a3c",
+		"statusBar.noFolderBackground": "#010a3c",
 		"statusBarItem.remoteBackground": "#007ce2",
 		"statusBarItem.remoteForeground": "#ffffff",
 
