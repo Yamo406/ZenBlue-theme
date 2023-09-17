@@ -3,23 +3,21 @@
   "displayName": "ZenBlue",
   "publisher": "Yamo",
   "description": "The perfect blue for your zen mode",
-  "version": "0.0.1",
-  "repository": {"url": "https://github.com/kdayamo/ZenBlue-theme.git"},
+  "version": "0.0.2",
+  "repository": {
+    "url": "https://github.com/kdayamo/ZenBlue-theme.git"
+  },
   "pricing": "Free",
   "license": "MIT",
-  "engines":  
-  {
+  "engines": {
     "vscode": "^1.54.0"
   },
   "icon": "ZenBlueIcon.png",
-  "categories": 
-  [
+  "categories": [
     "Themes"
   ],
-  "contributes": 
-  {
-    "themes": 
-    [
+  "contributes": {
+    "themes": [
       {
         "label": "ZenBlue",
         "uiTheme": "vs-dark",
