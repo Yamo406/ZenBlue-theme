@@ -1,3 +1,4 @@
 node_modules
 *.vsix
-palette.md
+ZenBlue-zshTheme/palette.md
+.vscode
