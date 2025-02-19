@@ -1,28 +1,28 @@
 {
-  "name": "ZenBlue",
-  "displayName": "ZenBlue",
-  "publisher": "Yamo",
-  "description": "The perfect blue for your zen mode",
-  "version": "0.0.2",
-  "repository": {
-    "url": "https://github.com/kdayamo/ZenBlue-theme.git"
-  },
-  "pricing": "Free",
-  "license": "MIT",
-  "engines": {
-    "vscode": "^1.54.0"
-  },
-  "icon": "ZenBlueIcon.png",
-  "categories": [
-    "Themes"
-  ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "ZenBlue",
-        "uiTheme": "vs-dark",
-        "path": "./themes/ZenBlue-color-theme.json"
-      }
-    ]
-  }
+	"name": "ZenBlue",
+	"displayName": "ZenBlue",
+	"publisher": "Yamo",
+	"description": "The perfect blue for your zen mode",
+	"version": "0.0.6",
+	"repository": {
+    "url": "https://github.com/Yamo406/ZenBlue-theme/tree/6a10119d01d08e85e1070a7d20ad4e9102872bd7/ZenBlue-VScodeTheme"
+	},
+	"pricing": "Free",
+	"license": "MIT",
+	"engines": {
+		"vscode": "^1.97.2"
+	},
+	"icon": "ZenBlue-icon.png",
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "ZenBlue",
+				"uiTheme": "vs-dark",
+				"path": "./themes/ZenBlue-color-theme.json"
+			}
+		]
+	}
 }

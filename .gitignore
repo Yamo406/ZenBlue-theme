@@ -2,3 +2,6 @@ node_modules
 *.vsix
 ZenBlue-zshTheme/palette.md
 .vscode
+ZenBlue-firefox
+ZenBlue-obsidian
+
