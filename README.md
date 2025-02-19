@@ -8,7 +8,7 @@ Inspired by the abyss theme and configured for all those blue lovers out there.
 
 ### Preview of VS Code
 
-![C preview](ZenBlue-VScodeTheme/ceg.png) ![html preview](ZenBlue-VScodeTheme/htmleg.png) ![Java preview](ZenBlue-VScodeTheme/javaeg.png)
+![C preview](ZenBlue-VScodeTheme/zenblue-vscode-c-preview.png) ![html preview](ZenBlue-VScodeTheme/zenblue-vscode-html-preview.png) ![Java preview](ZenBlue-VScodeTheme/zenblue-vscode-java-preview.png)
 
 
 ### Preview of ZSH
