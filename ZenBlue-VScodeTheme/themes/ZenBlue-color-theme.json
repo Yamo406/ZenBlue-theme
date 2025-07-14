@@ -8,7 +8,7 @@
 		"editorLineNumber.foreground": "#1e4872",
 		"editorLineNumber.activeForeground": "#229bff",
 		"editorBracketMatch.border": "#ffe4c279",
-		"titleBar.activeBackground": "#010A3C",
+		"titleBar.activeBackground": "#01072b",
 		"titleBar.activeForeground": "#ffffff",
 
 		//editor selection and highlights
@@ -172,50 +172,71 @@
 				"foreground": "#EDF9B1"
 			}
 		},
-    {
-      "name": "typescript punctuation",
-      "scope": ["punctuation.definition.tag.begin.tsx",
-        "punctuation.definition.tag.end.tsx",
-      ],
-      "settings": {
-        "foreground": "#006EFF"
-      }
-    },
-    {
-      "name": "typescript tags",
-      "scope": [
-        "entity.name.tag.tsx",
-        "meta.tag.tsx",
-        "support.class.component.tsx"
-      ],
-      "settings": {
-        "foreground": "#EDF9B1"
-      }
-    },
-    { "name": "Typescript object literals",
-      "scope": [
-        "meta.object.member.ts",
-        "meta.objectliteral.ts",
-        "new.expr.ts",
-        "meta.var.expr.ts",
-        "meta.boject-literal.key.ts"
-      ],
-      "settings": {
-        "foreground": "#2EC0FF",
-      }
-    },
-    {
-      "name": "Python Strings ",
-      "scope": [
-        "string.quoted.single.python",
-        "meta.function-call.arguments.python",
-        "meta.function-call.python",
-        "source.python"
-      ],
-      "settings": {
-        "foreground": "#EDF9B1",
-      }
-    },
+		{
+			"name": "jsx/tsx punctuation",
+			"scope": [
+				"punctuation.definition.tag.begin.tsx",
+				"punctuation.definition.tag.end.tsx",
+				"punctuation.definition.tag.begin.js.jsx",
+				"punctuation.definition.tag.end.js.jsx"
+			],
+			"settings": {
+				"foreground": "#006EFF"
+			}
+		},
+		{
+			"name": "jsx/tsx meta tags",
+			"scope": ["meta.jsx.children"],
+			"settings": {
+				"foreground": "#FFFFFF"
+			}
+		},
+		{
+			"name": "jsx/tsx tags",
+			"scope": [
+				"entity.name.tag.tsx",
+				"meta.tag.tsx",
+				"support.class.component.tsx",
+				"entity.name.tag.js.jsx",
+				"meta.tag.js.jsx",
+				"support.class.component.js.jsx",
+				"meta.tag"
+			],
+			"settings": {
+				"foreground": "#EDF9B1"
+			}
+		},
+		{
+			"name": "jsx/tsx object literals",
+			"scope": [
+				"meta.object.member.ts",
+				"meta.objectliteral.ts",
+				"new.expr.ts",
+				"meta.var.expr.ts",
+				"meta.object-literal.key.ts",
+				"meta.object.member.js",
+				"meta.objectliteral.js",
+				"new.expr.js",
+				"meta.var.expr.js",
+				"meta.object-literal.key.js"
+			],
+			"settings": {
+				"foreground": "#2EC0FF",
+				// "foreground": "#1EC0FF"
+			}
+		},
+		{
+			"name": "Python Strings ",
+			"scope": [
+				"string.quoted.single.python",
+				"meta.function-call.arguments.python",
+				"meta.function-call.python",
+				"source.python"
+			],
+			"settings": {
+				"foreground": "#EDF9B1"
+			}
+		},
 		{
 			"name": "yaml entity name",
 			"scope": ["entity.name.type.anchor.yaml"],
@@ -468,19 +489,7 @@
 				"foreground": "#438eff"
 			}
 		},
-    {
-      "name": "Javascript object literals",
-      "scope": [
-        "meta.object.member.js",
-        "meta.objectliteral.js",
-        "new.expr.js",
-        "meta.var.expr.js",
-        "meta.boject-literal.key.js"
-      ],
-      "settings": {
-        "foreground": "#2EC0FF",
-      }
-    },
+
 		{
 			"name": "JSON Key - Level 0",
 			"scope": [

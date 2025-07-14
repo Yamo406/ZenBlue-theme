@@ -8,12 +8,13 @@ Inspired by the abyss theme and configured for all those blue lovers out there.
 
 ### Preview of VS Code
 
-![C preview](./zenblue-vscode-c-preview.png)
+<img src="./zenblue-vscode-html-preview.png" alt="HTML preview">
 
-![html preview](./zenblue-vscode-html-preview.png)
+<img src="./zenblue-vscode-jsx-preview.png" alt="JSX preview">
 
-![Java preview](./zenblue-vscode-java-preview.png)
+<img src="./zenblue-vscode-c-preview.png" alt="C preview">
 
+<img src="./zenblue-vscode-java-preview.png" alt="Java preview">
 
 ### Install
 

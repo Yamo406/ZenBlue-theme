@@ -6,6 +6,11 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+## [0.0.7] 07/14/2025
+
+### Changed
+- Improved syntax highlighting for jsx/tsx files
+
 ## [0.0.6] 02/19/2025
 
 ### Changed
